@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
-import '../stylesheets/Header.css';
+// import '../stylesheets/Header.css';
+import '../stylesheets/App.css';
 
 class Header extends Component {
 
